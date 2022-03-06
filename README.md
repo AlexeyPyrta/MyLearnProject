@@ -1,6 +1,6 @@
 # MyLearnProject
 
-$a - int
+$a - int...
 $b - string
 $c - string
 $d - float
