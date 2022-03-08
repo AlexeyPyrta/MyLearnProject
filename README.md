@@ -1,13 +1,5 @@
-# MyLearnProject
+# AreaWeb домашние работы
 
-$a - int
+Список файлов содержащих решения:
 
-$b - string
-
-$c - string
-
-$d - float
-
-$e - bool
-
-$f - bool
+- variables.php  //Решение по уроку "Переменные"
